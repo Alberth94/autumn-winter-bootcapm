@@ -1,0 +1,46 @@
+.application-form-title {
+    color: #003C55;
+    font-family: Open Sans;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+}
+
+.application-form-container {
+    width: 1374px;
+    height: 851px;
+    flex-shrink: 0;
+}
+
+.contact-information-container {
+    width: 800px;
+    height: 30px;
+    margin-bottom: 10px;
+}
+
+.contact-information-header {
+    color: #003C55;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    float: left;
+}
+
+.adress-container {
+    width: 800px;
+    height: 30px;
+    margin-bottom: 10px;
+}
+
+.adress-header {
+    color: #003C55;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
